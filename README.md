@@ -1,6 +1,6 @@
 # WEATHER APP [Educational]
 
-[For learning and educational purposes only.] A weather app to improve my nodeJS knowledge.
+[For learning and educational purposes only.] A weather app to improve my nodeJS knowledge. This is fun.
 
 <!-- ## Built With
 
