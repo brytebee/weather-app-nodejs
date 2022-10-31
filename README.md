@@ -1,6 +1,6 @@
-# NOTE APP [Educational]
+# WEATHER APP [Educational]
 
-[For learning and educational purposes only.] In this app I began learning NodeJS by building this cool console note taking app.
+[For learning and educational purposes only.] A weather app to improve my nodeJS knowledge. This is fun.
 
 <!-- ## Built With
 
